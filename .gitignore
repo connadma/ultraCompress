@@ -36,6 +36,11 @@
 *.x86_64
 *.hex
 
+# Test executables
+tests/test_priority_queue
+tests/test_huffman_tree
+tests/test_frequency_counter
+
 # Debug files
 *.dSYM/
 *.su
